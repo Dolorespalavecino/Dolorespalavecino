@@ -28,4 +28,4 @@ Estoy aprendiendo a programar en **R**, a analizar y visualizar datos, y a desar
 
 ## 📫 Contacto
 - mail institucional: dpalavecino@mail.austral.edu.ar
-- mail perosnal: dolorespalavecino369@gmail.com
+- mail personal: dolorespalavecino369@gmail.com
